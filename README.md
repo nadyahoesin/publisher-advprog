@@ -11,3 +11,7 @@ b. The url `amqp://guest:guest@localhost:5672` is the same as in the subscriber 
 ## Subscriber console
 
 ![subscriber console](img/subscriber-console.png)
+
+## Monitoring RabbitMQ
+
+![monitoring rabbitmq](img/monitoring-rabbitmq.png)
